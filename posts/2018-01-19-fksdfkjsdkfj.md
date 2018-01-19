@@ -1,6 +1,6 @@
 ---
 layout: blog
 title: fksdfkjsdkfj
-date: 2018-01-19T17:07:28.214Z
+date: 2018-01-22T09:07:28-08:00
 ---
 asdfasdf
